@@ -1,0 +1,19 @@
+.page{
+    max-width: 700px;
+
+    color: cornsilk;
+    margin-left: 400px;
+    background-image: "../bg.jpg";
+  }
+  .page h2{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
+ 
+  .page h3{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
+ 
